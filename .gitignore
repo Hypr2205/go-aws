@@ -1,0 +1,7 @@
+# IDE generated
+.idea/
+*.iml
+.vscode/
+
+# Environment files
+.env*
